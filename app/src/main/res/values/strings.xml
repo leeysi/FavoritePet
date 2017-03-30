@@ -1,14 +1,14 @@
 <resources>
     <string name="app_name">FavoritePet</string>
-    <string name="msg_title">start select?</string>
-    <string name="check_lbl">start</string>
-    <string name="msg_quest">what favorite member?</string>
-    <string name="mem_rapmon">rapmonster</string>
-    <string name="mem_jin">jin</string>
-    <string name="mem_suga">suga</string>
-    <string name="mem_hope">j-hope</string>
-    <string name="mem_jimin">jimin</string>
-    <string name="mem_V">V</string>
-    <string name="mem_kook">jungkook</string>
-    <string name="but_lbl">select complete</string>
+    <string name="msg_title">선택을 시작하시겠습니까?</string>
+    <string name="check_lbl">시작함</string>
+    <string name="msg_quest">가장 좋아하는 멤버는?</string>
+    <string name="mem_rapmon">랩몬스터</string>
+    <string name="mem_jin">진</string>
+    <string name="mem_suga">슈가</string>
+    <string name="mem_hope">제이홉</string>
+    <string name="mem_jimin">지민</string>
+    <string name="mem_V">뷔</string>
+    <string name="mem_kook">정국</string>
+    <string name="but_lbl">선택완료</string>
 </resources>
